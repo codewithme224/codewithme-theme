@@ -1,0 +1,26 @@
+{
+  "name": "codewithme224",
+  "displayName": "codewithme224",
+  "description": "Coding partner theme",
+  "publisher": "Emmanuel Abraham Jones",
+  "icon": "assets/logo.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "codewithme224",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codewithme224-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.31.0"
+  }
+}
