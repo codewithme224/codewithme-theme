@@ -2,11 +2,15 @@
   "name": "codewithme224",
   "displayName": "codewithme224",
   "description": "Coding partner theme",
-  "publisher": "Emmanuel Abraham Jones",
+  "publisher": "codewithme224",
   "icon": "assets/logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.91.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codewithme224/codewithme-theme.git"
   },
   "categories": [
     "Themes"
